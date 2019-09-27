@@ -7,11 +7,11 @@
 }
 /* framework created 25/09/2019 */
 /* container */
-.container{
-  max-width: 1170px;
-  margin: 0 auto;
+.row{
+  width: 100%;
+  min-width: 100px;
 }
-.container::after{
+.row::after{
   content: "";
   display: table;
   clear: both;
