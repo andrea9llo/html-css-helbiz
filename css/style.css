@@ -1,1 +1,24 @@
+body{
+  font-family: Open Sans,sans-serif;
+}
 
+/* navbar */
+#navbar{
+  background: white;
+  padding: 25px 14% ;
+}
+.logo-black{
+  width: 80px;
+}
+a{
+  text-decoration: none;
+}
+.nav-link{
+  color: black;
+  font-size: 9px;
+  font-weight: 600;
+}
+.linea-vert{
+  border-right: 1px solid black;
+  padding-right: 3px;
+}
