@@ -55,3 +55,29 @@ a{
   border-right: 1px solid black;
   padding-right: 3px;
 }
+
+
+/* blocco prodotti  */
+.container{
+  margin: 40px 2%;
+  padding: 50px 2%;
+}
+
+.logo-prodotti{
+  max-height: 22px;
+  margin: 15px 0;
+}
+.shop{
+  margin-right: 2%;
+  background: rgb(250, 250, 250);
+  text-align: center;
+}
+.shop-destra{
+  margin-left: 2%;
+  background: rgb(250, 250, 250);
+  text-align: center;
+}
+.prodotti{
+  max-width: 200px;
+  margin: 20px 0;
+}
